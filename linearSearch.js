@@ -1,3 +1,5 @@
+// simple brute force linear solution
+
 function linearSearch(arr) {
     let i = 2 ;
     for(let num of arr) {
