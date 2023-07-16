@@ -1,3 +1,10 @@
+// dutch flag problem also known as sort colors problem
+// integers 0, 1, and 2 to represent the color red, white, and blue.
+// Input: nums = [2,0,2,1,1,0]
+// Output: [0,0,1,1,2,2]
+// Input: nums = [2,0,1]
+// Output: [0,1,2]
+
 function dutchFlag(arr) {
 
     let low = 0;
